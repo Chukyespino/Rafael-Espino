@@ -1,0 +1,38 @@
+ul {
+  list-style: none;
+  float: right;
+  margin-top: 1rem;
+}
+
+li {
+  display: inline-block;
+  margin-right: 1rem;
+}
+
+header {
+  padding: 1.25rem;
+  background-color: #555555;
+}
+
+header a {
+  color: #eeeeee;
+  text-decoration: none;
+}
+
+header a:hover {
+  text-decoration: underline;
+}
+
+.outer {
+  margin: 0;
+}
+
+.inner {
+  margin: 0 auto;
+  max-width: 650px;
+  padding: 1.25rem 1 rem;
+}
+
+.home-link {
+  display: inline;
+}
